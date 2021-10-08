@@ -1,6 +1,6 @@
 # Valorant review
 
-![Valorant](valorant.jpg)
+![Valorant](Valorant.jpg)
 
 ## **Wat is Valorant?**
 
